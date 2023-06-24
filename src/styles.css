@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* for the password generator title */
+
+#header{
+  margin-top: 60px;
+}
+
+/* for the slider */
+
+.slider{
+  width: 50%;
+  
+  
+  margin-top: 100px;
+  
+}
+
+/* for the two checkboxes */
+
+.checkbox{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 30px;
+}
+/* for checkbox labels */
+.label{
+  margin-top: 30px;
+  
+}
+
+/* for the generate button */
+
+.button{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 30px;
+
+}
+/* for the rendered password */
+.card{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 60px;
+  
+  
+}
+
+
